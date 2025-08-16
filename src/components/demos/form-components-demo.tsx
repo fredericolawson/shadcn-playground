@@ -86,7 +86,7 @@ export function FormComponentsDemo() {
               <Checkbox
                 id="terms"
                 checked={checkboxChecked}
-                onCheckedChange={setCheckboxChecked}
+                onCheckedChange={(checked) => setCheckboxChecked(checked === true)}
               />
               <Label htmlFor="terms">Accept terms and conditions</Label>
             </div>

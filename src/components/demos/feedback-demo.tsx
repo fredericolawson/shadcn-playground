@@ -258,14 +258,14 @@ export function FeedbackDemo() {
               <AccordionItem value="item-2">
                 <AccordionTrigger>Is it styled?</AccordionTrigger>
                 <AccordionContent>
-                  Yes. It comes with default styles that match the other components' aesthetic.
+                  Yes. It comes with default styles that match the other components&apos; aesthetic.
                   You can also customize the styles according to your needs.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-3">
                 <AccordionTrigger>Is it animated?</AccordionTrigger>
                 <AccordionContent>
-                  Yes. It's animated by default, but you can disable it if you prefer.
+                  Yes. It&apos;s animated by default, but you can disable it if you prefer.
                   The animations are smooth and performant using CSS transitions.
                 </AccordionContent>
               </AccordionItem>
